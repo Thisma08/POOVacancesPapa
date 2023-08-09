@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "name": "P1",
+      "score": 79,
+      "alive": false,
+      "id": 1
+    },
+    {
+      "name": "P2",
+      "score": 43,
+      "alive": false,
+      "id": 2
+    },
+    {
+      "name": "P3",
+      "score": 28,
+      "alive": false,
+      "id": 3
+    },
+    {
+      "name": "P4",
+      "score": 70,
+      "alive": true,
+      "id": 4
+    },
+    {
+      "name": "P5",
+      "score": 51,
+      "alive": false,
+      "id": 5
+    }
+  ]
+}
