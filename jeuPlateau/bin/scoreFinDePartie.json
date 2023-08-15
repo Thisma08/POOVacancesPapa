@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "Louis",
+      "score": 58,
+      "alive": true,
+      "id": 1
+    },
+    {
+      "name": "Jordan",
+      "score": 101,
+      "alive": true,
+      "id": 2
+    },
+    {
+      "name": "Sansa",
+      "score": 57,
+      "alive": false,
+      "id": 3
+    }
+  ]
+}

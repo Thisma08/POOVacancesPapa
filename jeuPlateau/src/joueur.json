@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "P1",
+      "score": 0,
+      "alive": true,
+      "id": 1
+    },
+    {
+      "name": "P2",
+      "score": 0,
+      "alive": true,
+      "id": 2
+    },
+    {
+      "name": "P3",
+      "score": 0,
+      "alive": true,
+      "id": 3
+    }
+  ]
+}
